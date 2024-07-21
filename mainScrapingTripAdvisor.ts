@@ -17,7 +17,7 @@ var headless_mode = process.argv[2];
 async function getAllResults() {
   console.log("hadi başlayalım");
   const browser = await puppeteer.launch({
-    headless: headless_mode !== "true" ? false : true,
+    headless: false,
     ignoreHTTPSErrors: true,
     slowMo: 0,
     args: [
@@ -32,14 +32,15 @@ async function getAllResults() {
   const page = await browser.newPage();
 
   //www.tripadvisor.com/Restaurants-g293974-Istanbul.html,
-
+  await page.setUserAgent("Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36")
   await page.goto(
-    "https://www.tripadvisor.com/Restaurants-g293974-Istanbul.html",
+    "https://www.tripadvisor.com/Restaurants-g293974-oa12000-Istanbul.html",
     {
       waitUntil: "networkidle0",
       timeout: 60000,
     }
   );
+  await setTimeout((Math.random() * 3000) + 1000)
 
   const allData = <any>[];
   let hasNext = true;
@@ -100,7 +101,7 @@ async function getAllResults() {
   //     console.log("reached to the end");
   //   }
   // }
-
+// await setTimeout(999999)
   while (hasNext) {
     await page.waitForSelector(".vIjFZ");
     const selectors = await page.$$(".vIjFZ");
@@ -117,6 +118,7 @@ async function getAllResults() {
     }
     console.log(filteredSelectors.length);
     console.log(selectors.length);
+    await setTimeout(1000 +(Math.random() * 6000))
 
     for (const selector of filteredSelectors) {
       let newTab: any = null;
@@ -223,6 +225,8 @@ async function getAllResults() {
         //   "Collected image requests during interception period:",
         //   previousImageRequests
         // );
+
+        await setTimeout(1000 +(Math.random() * 6000))
 
         const waitForSelectors = async (
           page: any,
@@ -626,22 +630,21 @@ async function getAllResults() {
           reviews: allReviewData || null,
         };
 
-        allData.push(allOfTheData);
-        console.dir(allData, { depth: null });
-        fs.writeFileSync("trip16.json", JSON.stringify(allData, null, 2));
+        console.dir(allOfTheData, { depth: null });
+        // fs.writeFileSync("trip.json", JSON.stringify(allData, null, 2));
 
-        // await axios
-        //   .post("http://localhost:3001", allOfTheData)
-        //   .then((response) => {
-        //     if (response.status === 200) {
-        //       console.log("savign to data was successful");
-        //     }
-        //   })
-        //   .catch((error) => {
-        //     if (error.response.status === 404) {
-        //       console.log("error happened for savşng to db");
-        //     }
-        //   });
+        await axios
+          .post("http://localhost:3001", allOfTheData)
+          .then((response) => {
+            if (response.status === 200) {
+              console.log("savign to data was successful");
+            }
+          })
+          .catch((error) => {
+            if (error.response.status === 404) {
+              console.log("error happened for savşng to db");
+            }
+          });
         // console.dir(allData, { depth: null });
         // console.log(
         //   "This restaurant has finished in " +
