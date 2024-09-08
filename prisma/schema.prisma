@@ -3,39 +3,58 @@ generator client {
 }
 
 datasource db {
-  provider = "mysql"
-  url      = env("DATABASE_URL")
+  provider          = "mysql"
+  url               = env("DATABASE_URL")
+  shadowDatabaseUrl = env("SHADOW_DATABASE_URL")
 }
 
 model Restaurant {
-  id                    String    @id @default(cuid())
+  id                    String      @id @default(cuid())
   //common fields in both databases
   detailedTitle         String?
-  restaurantTitle       String?
   ratingOverall         String?
   ratingOverallNumber   String?
   restaurantWebsiteLink String?
-  images                images[]
-  reviews               reviews[]
-    locationAddress       String?
-
-
-  restaurantLat Float?
-  restaurantLng Float?
-
-  isTripAdvisorVerified Boolean?
+  locationAddress       String?
+  restaurantLat         Float?
+  restaurantLng         Float?
+  generalFeatures       String?     @db.LongText
   priceSelector         String?
-  categoryList          categoryList[]
-  restaurantEmail       String?
   telephoneNumber       String?
+  restaurantEmail       String?
+  restaurantLink        String      @db.LongText
+  restaurantMenuLink    String?     @db.LongText
+  openDates             openDates[]
+  restaurantExplanation String?     @db.LongText
 
-    openDates openDates[]
+  //only google
+  googleType            String?
+  webResults            webResults[]
+
+  //only trip
+  isTripAdvisorVerified Boolean?
+  categoryList          categoryList[]
+
+  //both
+  images    images[]
+  reviews   reviews[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
 }
 
 model openDates {
   id           String     @id @default(cuid())
   day          String?
   hours        String?
+  restaurantId String
+  restaurant   Restaurant @relation(fields: [restaurantId], references: [id])
+}
+
+model webResults {
+  id           String     @id @default(cuid())
+  title        String?
+  link         String?     @db.LongText
+  content      String?     @db.LongText
   restaurantId String
   restaurant   Restaurant @relation(fields: [restaurantId], references: [id])
 }
@@ -49,13 +68,20 @@ model images {
 }
 
 model reviews {
-  id               String     @id @default(cuid())
+  id               String  @id @default(cuid())
+  ratingValue      Int?
+  ratingContent    String? @db.LongText
   ratingPerson     String?
   ratingPersonType String?
-  ratingValue      Int?
-  ratingContent    String?    @db.LongText
-  restaurantId     String
-  restaurant       Restaurant @relation(fields: [restaurantId], references: [id])
+  ratingDate       String?
+
+  //only trip
+  ratingWithWho String?
+  ratingTitle   String?
+  ratingPics    String? @db.LongText
+
+  restaurantId String
+  restaurant   Restaurant @relation(fields: [restaurantId], references: [id])
 }
 
 model categoryList {
@@ -64,3 +90,4 @@ model categoryList {
   restaurantId String
   restaurant   Restaurant @relation(fields: [restaurantId], references: [id])
 }
+

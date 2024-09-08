@@ -1,0 +1,14 @@
+const filteredSelectors = []
+
+Array.from(document.querySelectorAll('div[data-test-target="restaurant-detail-info"] span:nth-child(3) > span'), (items) => {
+if(items.textContect.includes(",")) {
+console.log("bruh")
+
+} else {
+filteredSelectors.push(items);
+}
+})
+
+console.log(filteredSelectors)
+
+

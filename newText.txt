@@ -1,0 +1,949 @@
+      ratingTitle: 'Balık Ziyafeti fastfood fiyatına.',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Lezzeti harika,ortamlar,servis eşyaları çok tatlı,çekmeköyden geldik ve mükemmel bi deneyimdi,devamlı gelmeye devam ediyoruz.Garsonlarını sona bıraktım çünkü her geldiğimizde farklı bir garson geliyordu ve mükemmel bi ilgi vardı,herşeyinizi özel yapıyorlar ve sıcacık getiriyorlar,özellikle izzet garson:)🧡',
+      ratingPerson: 'Ekrem T',
+      ratingPersonType: '1 katkı',
+      ratingDate: '6 Mayıs 2023',
+      ratingWithWho: 'none',
+      ratingTitle: 'MÜKEMMEL',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Daha öncede deneyimlemiştik çok beğenmiştik yine denedik yine beğendik. Hemen her ürünü denedik çok hızlı seri sıcak temiz. Tek dezavantajı ki doğal olarak bu çok aşırı talepten ileri geliyor çok kalabalık hemen yiyip kalkcakmışsın gibi hissediyorsun. Her İstanbul ziyaretinde mutlak uğrak yeri oldu',
+      ratingPerson: 'Dadashx',
+      ratingPersonType: '48 katkı',
+      ratingDate: '26 Şubat 2023',
+      ratingWithWho: 'family',
+      ratingTitle: 'Balıkçısını arıyorsan Tuzla’da',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 2,
+      ratingContent: 'Güveçte levrek denedim. Hiç beğenmedim çünkü salça ve ekstra yağı çok fazla kullanmışlar. Izgara levrek fena değildi ama onu da her yerde yiyebilirsiniz. Salata ve mısır ekmeği iyiydi.',
+      ratingPerson: 'maygar',
+      ratingPersonType: 'Montreal78 katkı',
+      ratingDate: '14 Ocak 2023',
+      ratingWithWho: 'couples',
+      ratingTitle: 'Sıradan bir balıkçı',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Fiyatlar aşırı ucuz, levrek külbastı ve soyalı somon mükemmel. Ama güzel bir restoran havası yok. Aşırı kalabalık. Ye kalk model bi yer. Servis çok hızlı. Balıklar çok lezzetli',
+      ratingPerson: 'Hazalyzclr',
+      ratingPersonType: 'İstanbul22 katkı',
+      ratingDate: '20 Kasım 2022',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Lezzet harika, ortam salaş',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 1,
+      ratingContent: 'Ekmek arası balık yemeyin yicekseniz soğansız yiyin Ama balığı çok güzel Soğanı basmışlar otobüse almadılar sakız aradık',
+      ratingPerson: 'Hasan kaya',
+      ratingPersonType: 'Nevşehir2 katkı',
+      ratingDate: '14 Kasım 2022',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Önemli yicekseniz!!!!!!!!!!!!',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Tuzlanın yüz akı denebilecek bir balık restorani. Balıkların meze şeklinde de sunulabileceğini misafirlerine kanıtlamış bir mekân. Pisaya ortalamasınin bir tık üstünde fiyat  ile hizmet versede gönülleri kazanmış bir balık restorantı.',
+      ratingPerson: 'ilker ŞEKER',
+      ratingPersonType: 'Kocaeli İli17 katkı',
+      ratingDate: '11 Temmuz 2024',
+      ratingWithWho: 'family',
+      ratingTitle: "Tuzla'da marka değeri kazanmış bir mekan ",
+      ratingPics: ''
+    },
+    {
+      ratingValue: 1,
+      ratingContent: 'Akdeniz bölgesinde yaşayan biri olarak hayatımda yediğim en kötü en berbat balıktı asla gitmeyeceğim bir yer \n' +
+        'Balıklar çok çok bayat',
+      ratingPerson: 'İldem Z',
+      ratingPersonType: '1 katkı',
+      ratingDate: '1 Mart 2024',
+      ratingWithWho: 'family',
+      ratingTitle: 'Çok kötü bir yemek deneyimi',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 1,
+      ratingContent: 'Gürcü veya Özbek calistiran bir isletme oldugundan hizmet kalitesi yerlerde. Kesinlikle iletisim kurulamiyor servis gec ve itinasiz. Bir daha gitmeyecegim bir mekandir tavsiye etmem.',
+      ratingPerson: 'İkizler İş B',
+      ratingPersonType: '1 katkı',
+      ratingDate: '27 Şubat 2024',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Reklam ve videolara aldqnip gitmeyin!',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Hakkında çok yorum yapılan yerlerden biri olduğu için dikkatimizi çekmişti zaten. En son İstanbul ziyaretimizde Avrupaya geçmeden rotamızı Tuzla balıkçısına çevirdik. Tercihimiz mezeler oldu. Oldukça başarılı. Çalışanların tavsiyesiyle bir çok mezeyi tatma imkanımız oldu. Hafta içi ve öğleden sonra olduğu için sanırım çok kalabalık değildi. Denize bakan tarafta çok keyifli bir yemek oldu. Araç parkı içinde çok uğraşmadık . Yakınlarında yer bulmak mümkün oldu. Yemekler çok başarılı ve çalışanlar ilgili. Balığın farklı yapılmış lezzetlerini denemek isterseniz Tuzla balıkçısına bir şans verebilirsiniz.',
+      ratingPerson: 'gezerim_26',
+      ratingPersonType: 'Ankara67 katkı',
+      ratingDate: '20 Şubat 2024',
+      ratingWithWho: 'family',
+      ratingTitle: 'Ailece öğle yemeği',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Muhteşem Kardeşler kalamar tava balıklar levrek ızgara muhteşemdi Ben beğendim mezeler güzel personel güler yüzlü cana yakın Şefin ellerine sağlık',
+      ratingPerson: 'Cumali K',
+      ratingPersonType: 'Muğla İli256 katkı',
+      ratingDate: '24 Aralık 2023',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Muhteşem manzara',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Özellikle meze tabağını denemek icin gidilir. Yemeklerin oldukça lezzetli ancak kapıdaki sıra ve içerdeki telaş can sıkıcı. Hızlıca yiyip kalkmanız gerekli gibi hissediyorsunuz.\n' +
+        'Yoğun olmayan bir günü var ise tekrar tercih edilebilir.',
+      ratingPerson: 'Oytun',
+      ratingPersonType: 'Ankara11 katkı',
+      ratingDate: '29 Eylül 2023',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Yoğun, telaşlı ama lezzetli',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 1,
+      ratingContent: 'başakşehir tuzla balıkçısına gittim.Kesinlikle ama kesinlikle önermiyorum.Para sömürmek üzerine kurulmuş bir yer fiyatları çok yüksel porsiyonları çok küçük.Ayrıca vale ücreflidir diye bir kart veriyorlar hiç yakıştıramadım .aşırı özensiz bir yer ama paraya gelince fazla fazla alıyorlar.',
+      ratingPerson: 'havva a',
+      ratingPersonType: '1 katkı',
+      ratingDate: '15 Eylül 2023',
+      ratingWithWho: 'family',
+      ratingTitle: 'para sömürüsü',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Baligin en lezzetli hallerini burada yedim. Yogunluga ragmen calisanlar cok ozverili, yillardir kalitesini hic bozmadi. Ayrica ickisiz balikci nasil bu kadar musteri ceker ders vermeliler.',
+      ratingPerson: 'sibel ö',
+      ratingPersonType: '1 katkı',
+      ratingDate: '27 Ağustos 2023',
+      ratingWithWho: 'family',
+      ratingTitle: 'Balikta tek tercihim',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 1,
+      ratingContent: 'Eski lezzet hic yok fiyatlar asiri pahali ve ilk defa bir mekanda hem küver hemde servis ücreti kesildiğini gördüm 6 kisilik yemek 100 küsür kuver 300 de servis ücreti yazilmis yazik',
+      ratingPerson: 'Ilkay T',
+      ratingPersonType: 'Maltepe20 katkı',
+      ratingDate: '13 Ağustos 2023',
+      ratingWithWho: 'family',
+      ratingTitle: 'Eskiyle alakasi yok',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Dostlarımın tavsiyesi ile ziyaret ettim. Balıklar lezizdi servis ve ortam güzeldi fiyatlar çok uygundu. Hatta fiyatlar lezzete göre o kadar uygundu ki hesaba başka bir şey mi ekliyorlar diye tedirgin oldum. Üç kişilik balık ziyafetinden fastfood zincirlerinde hamburger fiyatına kalktık. Memlekette düzgün bir şeyler olduğunda bunu yaymak gerek. Bu nedenle yorum paylaşma gereği duymaktayım.',
+      ratingPerson: 'HUSEYINYC',
+      ratingPersonType: 'İstanbul3 katkı',
+      ratingDate: '2 Ağustos 2023',
+      ratingWithWho: 'family',
+      ratingTitle: 'Balık Ziyafeti fastfood fiyatına.',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Lezzeti harika,ortamlar,servis eşyaları çok tatlı,çekmeköyden geldik ve mükemmel bi deneyimdi,devamlı gelmeye devam ediyoruz.Garsonlarını sona bıraktım çünkü her geldiğimizde farklı bir garson geliyordu ve mükemmel bi ilgi vardı,herşeyinizi özel yapıyorlar ve sıcacık getiriyorlar,özellikle izzet garson:)🧡',
+      ratingPerson: 'Ekrem T',
+      ratingPersonType: '1 katkı',
+      ratingDate: '6 Mayıs 2023',
+      ratingWithWho: 'none',
+      ratingTitle: 'MÜKEMMEL',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Daha öncede deneyimlemiştik çok beğenmiştik yine denedik yine beğendik. Hemen her ürünü denedik çok hızlı seri sıcak temiz. Tek dezavantajı ki doğal olarak bu çok aşırı talepten ileri geliyor çok kalabalık hemen yiyip kalkcakmışsın gibi hissediyorsun. Her İstanbul ziyaretinde mutlak uğrak yeri oldu',
+      ratingPerson: 'Dadashx',
+      ratingPersonType: '48 katkı',
+      ratingDate: '26 Şubat 2023',
+      ratingWithWho: 'family',
+      ratingTitle: 'Balıkçısını arıyorsan Tuzla’da',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 2,
+      ratingContent: 'Güveçte levrek denedim. Hiç beğenmedim çünkü salça ve ekstra yağı çok fazla kullanmışlar. Izgara levrek fena değildi ama onu da her yerde yiyebilirsiniz. Salata ve mısır ekmeği iyiydi.',
+      ratingPerson: 'maygar',
+      ratingPersonType: 'Montreal78 katkı',
+      ratingDate: '14 Ocak 2023',
+      ratingWithWho: 'couples',
+      ratingTitle: 'Sıradan bir balıkçı',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Fiyatlar aşırı ucuz, levrek külbastı ve soyalı somon mükemmel. Ama güzel bir restoran havası yok. Aşırı kalabalık. Ye kalk model bi yer. Servis çok hızlı. Balıklar çok lezzetli',
+      ratingPerson: 'Hazalyzclr',
+      ratingPersonType: 'İstanbul22 katkı',
+      ratingDate: '20 Kasım 2022',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Lezzet harika, ortam salaş',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 1,
+      ratingContent: 'Ekmek arası balık yemeyin yicekseniz soğansız yiyin Ama balığı çok güzel Soğanı basmışlar otobüse almadılar sakız aradık',
+      ratingPerson: 'Hasan kaya',
+      ratingPersonType: 'Nevşehir2 katkı',
+      ratingDate: '14 Kasım 2022',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Önemli yicekseniz!!!!!!!!!!!!',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Tuzlanın yüz akı denebilecek bir balık restorani. Balıkların meze şeklinde de sunulabileceğini misafirlerine kanıtlamış bir mekân. Pisaya ortalamasınin bir tık üstünde fiyat  ile hizmet versede gönülleri kazanmış bir balık restorantı.',
+      ratingPerson: 'ilker ŞEKER',
+      ratingPersonType: 'Kocaeli İli17 katkı',
+      ratingDate: '11 Temmuz 2024',
+      ratingWithWho: 'family',
+      ratingTitle: "Tuzla'da marka değeri kazanmış bir mekan ",
+      ratingPics: ''
+    },
+    {
+      ratingValue: 1,
+      ratingContent: 'Akdeniz bölgesinde yaşayan biri olarak hayatımda yediğim en kötü en berbat balıktı asla gitmeyeceğim bir yer \n' +
+        'Balıklar çok çok bayat',
+      ratingPerson: 'İldem Z',
+      ratingPersonType: '1 katkı',
+      ratingDate: '1 Mart 2024',
+      ratingWithWho: 'family',
+      ratingTitle: 'Çok kötü bir yemek deneyimi',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 1,
+      ratingContent: 'Gürcü veya Özbek calistiran bir isletme oldugundan hizmet kalitesi yerlerde. Kesinlikle iletisim kurulamiyor servis gec ve itinasiz. Bir daha gitmeyecegim bir mekandir tavsiye etmem.',
+      ratingPerson: 'İkizler İş B',
+      ratingPersonType: '1 katkı',
+      ratingDate: '27 Şubat 2024',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Reklam ve videolara aldqnip gitmeyin!',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Hakkında çok yorum yapılan yerlerden biri olduğu için dikkatimizi çekmişti zaten. En son İstanbul ziyaretimizde Avrupaya geçmeden rotamızı Tuzla balıkçısına çevirdik. Tercihimiz mezeler oldu. Oldukça başarılı. Çalışanların tavsiyesiyle bir çok mezeyi tatma imkanımız oldu. Hafta içi ve öğleden sonra olduğu için sanırım çok kalabalık değildi. Denize bakan tarafta çok keyifli bir yemek oldu. Araç parkı içinde çok uğraşmadık . Yakınlarında yer bulmak mümkün oldu. Yemekler çok başarılı ve çalışanlar ilgili. Balığın farklı yapılmış lezzetlerini denemek isterseniz Tuzla balıkçısına bir şans verebilirsiniz.',
+      ratingPerson: 'gezerim_26',
+      ratingPersonType: 'Ankara67 katkı',
+      ratingDate: '20 Şubat 2024',
+      ratingWithWho: 'family',
+      ratingTitle: 'Ailece öğle yemeği',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Muhteşem Kardeşler kalamar tava balıklar levrek ızgara muhteşemdi Ben beğendim mezeler güzel personel güler yüzlü cana yakın Şefin ellerine sağlık',
+      ratingPerson: 'Cumali K',
+      ratingPersonType: 'Muğla İli256 katkı',
+      ratingDate: '24 Aralık 2023',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Muhteşem manzara',
+      ratingPics: ''
+    }
+  ],
+  openDates: [
+    { day: 'Pazar', hours: '10:00-23:30' },
+    { day: 'Pazartesi', hours: '10:00-23:30' },
+    { day: 'Salı', hours: '10:00-23:30' },
+    { day: 'Çarşamba', hours: '10:00-23:30' },
+    { day: 'Perşembe', hours: '10:00-23:30' },
+    { day: 'Cuma', hours: '10:00-23:30' },
+    { day: 'Cumartesi', hours: '10:00-23:30' }
+  ]
+}
+savign to data was successful
+This restaurant has finished in 15.14 seconds
+Start time for one restaurant: 1722427467.35
+Here is the link: /Restaurant_Review-g293974-d4406726-Reviews-Kebapci_Kardesler-Istanbul.html
+clicked for new tab
+starting image fetching
+Start time of review process: 1722427493.43
+No next review found. Breaking from review loop...: TimeoutError: Waiting for selector `a[aria-label="Next page"]` failed: Waiting failed: 2000ms exceeded
+{
+  detailedTitle: 'Kebapçı Özcan Usta',
+  ratingOverall: '5',
+  ratingOverallNumber: '55',
+  restaurantWebsiteLink: null,
+  locationAddress: 'Hocapasa Cadessi 6A, İstanbul Türkiye',
+  restaurantLat: 41.013935,
+  restaurantLng: 28.975454,
+  generalFeatures: 'Dışarı Yemek Servisi, Paket Yemek, Rezervasyonlar, Açık Havada Oturma, Oturma, Bebek Sandalyesi Var, Dijital Ödemeler, Ücretsiz Wifi, Kredi Kartı Geçerli, Masaya Servis, Caz Barı, Arabaya Servis, Aile tarzı',
+  priceSelector: '$',
+  telephoneNumber: '+90 212 527 00 27',
+  restaurantEmail: null,
+  restaurantMenuLink: null,
+  restaurantExplanation: null,
+  isTripAdvisorVerified: true,
+  categoryList: [
+    { category: 'Barbekü' },
+    { category: 'Asya' },
+    { category: 'Türk' }
+  ],
+  restaurantLink: 'https://www.tripadvisor.com.tr/Restaurant_Review-g293974-d4406726-Reviews-or15-Kebapci_Kardesler-Istanbul.html',
+  images: [
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1c/bb/f3/26/burger.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1c/bb/f2/ad/burger.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1c/bb/f2/ca/karisik-kebap.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1c/bb/f2/ef/kebapci-ozcan-usta.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/21/5c/57/d7/degerli-musterilerimiz.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/05/6d/12/13/kebapci-kardesler.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/04/15/83/11/mixed-mezze-plate.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1b/ab/83/62/photo3jpg.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/06/c5/84/97/kebapci-kardesler.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/13/72/36/54/kebapci-kardesler.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1b/ab/83/61/photo2jpg.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/06/c5/84/ad/kebapci-kardesler.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/06/c5/84/a2/kebapci-kardesler.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/13/9a/3d/a6/s-a-man-from-next-shop.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/14/d1/3d/8a/img-20180926-wa0070-largejpg.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/04/15/82/e7/eggplant-kebap-and-lamb.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/2a/67/7d/kebapci-ozcan-usta.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/14/d1/3d/8d/20180926-151245-largejpg.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/06/c5/84/b3/kebapci-kardesler.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/19/ff/61/5d/img-20191111-162052-largejpg.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-t/06/7f/16/6e/vittorio-c.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-t/01/72/29/1e/maryysnow.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-t/18/b1/a9/4c/degustibus67.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-o/13/72/37/0c/adnan-a.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-t/1a/06/02/c2/avatar.jpg'
+    }
+  ],
+  reviews: [
+    {
+      ratingValue: 5,
+      ratingContent: 'Her şey lezzetli ve güzel fiyatlarda şuan ki duruma göre gayet makul bir fiyattı ben beğendim.  herkese tavsiye ederim.',
+      ratingPerson: 'Mehmet Y',
+      ratingPersonType: '1 katkı',
+      ratingDate: '4 Temmuz 2024',
+      ratingWithWho: 'solo',
+      ratingTitle: 'Beğendim ve kuru fasulyeyide herkese tavsiye ederim ',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Bu restoran günlük gidilebilecek en iyi yerlerden biri konum olarakta fiyat olarakta iyi bir aile işletmesi yemeklerde lezzetli',
+      ratingPerson: 'Talha Ü',
+      ratingPersonType: '3 katkı',
+      ratingDate: '4 Temmuz 2024',
+      ratingWithWho: 'solo',
+      ratingTitle: 'Yemek yedim',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Çağ kebap mükemmel ama burayı mükemmel yapan çalışanlar kesinlikle denemelisiniz ☺️ yemeklerin lezzeti müthiş . Herşey için teşekkürler',
+      ratingPerson: 'Yasemin A',
+      ratingPersonType: 'İstanbul3 katkı',
+      ratingDate: '21 Nisan 2024',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Muhteşem',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Guleryuz servis lezetli merkezi ve tarihi yerde her kese tavsiye ederim\n' +
+        '\n' +
+        'Sultanahmet cok yakinda kapali carsiya yakin mesafede olan bir teysis \n' +
+        '\n' +
+        'Herke sin ailesyle gidebilecegi bir yer',
+      ratingPerson: 'Turkish M',
+      ratingPersonType: '1 katkı',
+      ratingDate: '4 Şubat 2024',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Harika bir deneyim',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Cağ kebap müthişti porsiyon fiyatı 170 TL, bir de kredi kartıyla ödeyince %5 daha fazla alıyorlardı.\n' +
+        '\n' +
+        'Sadece Cağ kebabı fiyatı uygundu öbür şeyler fazlasıyla pahalıydı.',
+      ratingPerson: 'Ali M',
+      ratingPersonType: '6 katkı',
+      ratingDate: '1 Temmuz 2023',
+      ratingWithWho: 'family',
+      ratingTitle: 'Çok İYİ',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Arkadaşlarım ile iftara gittik.\n' +
+        'Kebaplar lezzetli,ben tavuk kanat,arkadaşlarım(et şiş,ciğer,tavuk şiş) yedik.Fiyatlar çevreye oranla ucuz.\n' +
+        'Bize Katmer tatlısı önerdiler gerçekten çok hoştu.4kişi için 310₺hesap ödedik.',
+      ratingPerson: 'Sare Berra Bagdat',
+      ratingPersonType: '1 katkı',
+      ratingDate: '19 Nisan 2022',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Kebapçı Özcan Usta',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Özellikle tereyağından yapılan kurufasulye yi ,bizzat hergun yiyorum. Kebablari harika.servis hizmet on numara. Kebabı Özcan usta.Mutlaka uğrayın.',
+      ratingPerson: 'Murtaza A',
+      ratingPersonType: '1 katkı',
+      ratingDate: '16 Eylül 2021',
+      ratingWithWho: 'family',
+      ratingTitle: 'İstanbul da kebab ve kurufasulye yiyeceğiniz en güzel temiz mekan.',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Lezzet mi arıyorsunuz Özcan ustaya gelip yemelisiniz yemeden İstanbul’dan dönmeyiniz fiyatlarda çok ucuz şiddetle tavsiye ediyorum',
+      ratingPerson: 'Mubi',
+      ratingPersonType: 'Mardin11 katkı',
+      ratingDate: '15 Eylül 2021',
+      ratingWithWho: 'family',
+      ratingTitle: 'Lezzet harikası',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Hocapaşada sevdiğim mekanlar arasında.\n' +
+        'Gönül rahatlığı ile yemek yiyebilirsiniz.\n' +
+        'Hijyene dikkat ediliyor. Uğramalısınız.',
+      ratingPerson: 'Havva',
+      ratingPersonType: 'İstanbul2 katkı',
+      ratingDate: '11 Mart 2021',
+      ratingWithWho: 'none',
+      ratingTitle: 'Hocapaşa',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Karışık Kebap yemelisiniz.\n' +
+        'Böylece her şeyin tadına bakmış olursunuz, etleri çok iyi. Sirkeci de güzel bir mekan',
+      ratingPerson: 'Sally',
+      ratingPersonType: 'Londra1 katkı',
+      ratingDate: '24 Aralık 2020',
+      ratingWithWho: 'solo',
+      ratingTitle: 'Karışık Kebap',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Her şey çok güzeldi.\n' +
+        'Yemekler harika ve ilgi alaka iyidi.\n' +
+        'Kesinlikle tavsiye ederim.\n' +
+        'Mutlaka karışık kebap yiyin.\n' +
+        'Alles GOOD.',
+      ratingPerson: 'Ali K',
+      ratingPersonType: 'İstanbul1 katkı',
+      ratingDate: '10 Haziran 2020',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Super',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Tarihî hocapasa sokağın içinde küçücük bir işletme ama öyle bir kuru fasulyesi varki resmen damagimla cignedim tabi birde kelle paça çorbası bakir bir tabakta servis ediliyor çorba bitene kadar sıcacık yedik Özcan usta çok içten samimi bir şekilde ilgileniyor ellerine sağlık Özcan usta',
+      ratingPerson: 'SERKAN Doğan',
+      ratingPersonType: 'İstanbul148 katkı',
+      ratingDate: '11 Kasım 2019',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Kuru ve kellepaca',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Sirkecide arkadaş larimla tesadüfen gördügmüz şirin güzel ve temiz ve seyrederek yapilan kebaplar harikaydi sahibi ve kebap lari yapan özcan ustanin ellerine sağlık',
+      ratingPerson: 'yusuf a',
+      ratingPersonType: '3 katkı',
+      ratingDate: '22 Ekim 2019',
+      ratingWithWho: 'none',
+      ratingTitle: 'Muhteşem',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Her şey çok güzel.\n' +
+        'Salon kocaman,temiz,ferah,rahatlıkla 60kişi sığabilir.Kebaplar çok iyiydi.ücretsiz internetde vardı.Her şeyi rahatlıkla deneyebilirsiniz.',
+      ratingPerson: 'Elif',
+      ratingPersonType: '8 katkı',
+      ratingDate: '24 Nisan 2019',
+      ratingWithWho: 'business',
+      ratingTitle: 'Mamamiaaaaaa',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Buradz Tavuk yiyin  kemikli tavuk lezzetlidir.Kredi karti gecer.Masaya hizmetleri iyidir.Salata ve ezme ikramdir.',
+      ratingPerson: 'Gülnur Kaptanoglu',
+      ratingPersonType: 'Ankara423326 katkı',
+      ratingDate: '17 Kasım 2018',
+      ratingWithWho: 'family',
+      ratingTitle: 'Kebapçi kardesler',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Her şey lezzetli ve güzel fiyatlarda şuan ki duruma göre gayet makul bir fiyattı ben beğendim.  herkese tavsiye ederim.',
+      ratingPerson: 'Mehmet Y',
+      ratingPersonType: '1 katkı',
+      ratingDate: '4 Temmuz 2024',
+      ratingWithWho: 'solo',
+      ratingTitle: 'Beğendim ve kuru fasulyeyide herkese tavsiye ederim ',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Bu restoran günlük gidilebilecek en iyi yerlerden biri konum olarakta fiyat olarakta iyi bir aile işletmesi yemeklerde lezzetli',
+      ratingPerson: 'Talha Ü',
+      ratingPersonType: '3 katkı',
+      ratingDate: '4 Temmuz 2024',
+      ratingWithWho: 'solo',
+      ratingTitle: 'Yemek yedim',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Çağ kebap mükemmel ama burayı mükemmel yapan çalışanlar kesinlikle denemelisiniz ☺️ yemeklerin lezzeti müthiş . Herşey için teşekkürler',
+      ratingPerson: 'Yasemin A',
+      ratingPersonType: 'İstanbul3 katkı',
+      ratingDate: '21 Nisan 2024',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Muhteşem',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Guleryuz servis lezetli merkezi ve tarihi yerde her kese tavsiye ederim\n' +
+        '\n' +
+        'Sultanahmet cok yakinda kapali carsiya yakin mesafede olan bir teysis \n' +
+        '\n' +
+        'Herke sin ailesyle gidebilecegi bir yer',
+      ratingPerson: 'Turkish M',
+      ratingPersonType: '1 katkı',
+      ratingDate: '4 Şubat 2024',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Harika bir deneyim',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Cağ kebap müthişti porsiyon fiyatı 170 TL, bir de kredi kartıyla ödeyince %5 daha fazla alıyorlardı.\n' +
+        '\n' +
+        'Sadece Cağ kebabı fiyatı uygundu öbür şeyler fazlasıyla pahalıydı.',
+      ratingPerson: 'Ali M',
+      ratingPersonType: '6 katkı',
+      ratingDate: '1 Temmuz 2023',
+      ratingWithWho: 'family',
+      ratingTitle: 'Çok İYİ',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Arkadaşlarım ile iftara gittik.\n' +
+        'Kebaplar lezzetli,ben tavuk kanat,arkadaşlarım(et şiş,ciğer,tavuk şiş) yedik.Fiyatlar çevreye oranla ucuz.\n' +
+        'Bize Katmer tatlısı önerdiler gerçekten çok hoştu.4kişi için 310₺hesap ödedik.',
+      ratingPerson: 'Sare Berra Bagdat',
+      ratingPersonType: '1 katkı',
+      ratingDate: '19 Nisan 2022',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Kebapçı Özcan Usta',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Özellikle tereyağından yapılan kurufasulye yi ,bizzat hergun yiyorum. Kebablari harika.servis hizmet on numara. Kebabı Özcan usta.Mutlaka uğrayın.',
+      ratingPerson: 'Murtaza A',
+      ratingPersonType: '1 katkı',
+      ratingDate: '16 Eylül 2021',
+      ratingWithWho: 'family',
+      ratingTitle: 'İstanbul da kebab ve kurufasulye yiyeceğiniz en güzel temiz mekan.',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Lezzet mi arıyorsunuz Özcan ustaya gelip yemelisiniz yemeden İstanbul’dan dönmeyiniz fiyatlarda çok ucuz şiddetle tavsiye ediyorum',
+      ratingPerson: 'Mubi',
+      ratingPersonType: 'Mardin11 katkı',
+      ratingDate: '15 Eylül 2021',
+      ratingWithWho: 'family',
+      ratingTitle: 'Lezzet harikası',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Hocapaşada sevdiğim mekanlar arasında.\n' +
+        'Gönül rahatlığı ile yemek yiyebilirsiniz.\n' +
+        'Hijyene dikkat ediliyor. Uğramalısınız.',
+      ratingPerson: 'Havva',
+      ratingPersonType: 'İstanbul2 katkı',
+      ratingDate: '11 Mart 2021',
+      ratingWithWho: 'none',
+      ratingTitle: 'Hocapaşa',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Karışık Kebap yemelisiniz.\n' +
+        'Böylece her şeyin tadına bakmış olursunuz, etleri çok iyi. Sirkeci de güzel bir mekan',
+      ratingPerson: 'Sally',
+      ratingPersonType: 'Londra1 katkı',
+      ratingDate: '24 Aralık 2020',
+      ratingWithWho: 'solo',
+      ratingTitle: 'Karışık Kebap',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Her şey çok güzeldi.\n' +
+        'Yemekler harika ve ilgi alaka iyidi.\n' +
+        'Kesinlikle tavsiye ederim.\n' +
+        'Mutlaka karışık kebap yiyin.\n' +
+        'Alles GOOD.',
+      ratingPerson: 'Ali K',
+      ratingPersonType: 'İstanbul1 katkı',
+      ratingDate: '10 Haziran 2020',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Super',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Tarihî hocapasa sokağın içinde küçücük bir işletme ama öyle bir kuru fasulyesi varki resmen damagimla cignedim tabi birde kelle paça çorbası bakir bir tabakta servis ediliyor çorba bitene kadar sıcacık yedik Özcan usta çok içten samimi bir şekilde ilgileniyor ellerine sağlık Özcan usta',
+      ratingPerson: 'SERKAN Doğan',
+      ratingPersonType: 'İstanbul148 katkı',
+      ratingDate: '11 Kasım 2019',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Kuru ve kellepaca',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Sirkecide arkadaş larimla tesadüfen gördügmüz şirin güzel ve temiz ve seyrederek yapilan kebaplar harikaydi sahibi ve kebap lari yapan özcan ustanin ellerine sağlık',
+      ratingPerson: 'yusuf a',
+      ratingPersonType: '3 katkı',
+      ratingDate: '22 Ekim 2019',
+      ratingWithWho: 'none',
+      ratingTitle: 'Muhteşem',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Her şey çok güzel.\n' +
+        'Salon kocaman,temiz,ferah,rahatlıkla 60kişi sığabilir.Kebaplar çok iyiydi.ücretsiz internetde vardı.Her şeyi rahatlıkla deneyebilirsiniz.',
+      ratingPerson: 'Elif',
+      ratingPersonType: '8 katkı',
+      ratingDate: '24 Nisan 2019',
+      ratingWithWho: 'business',
+      ratingTitle: 'Mamamiaaaaaa',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 4,
+      ratingContent: 'Buradz Tavuk yiyin  kemikli tavuk lezzetlidir.Kredi karti gecer.Masaya hizmetleri iyidir.Salata ve ezme ikramdir.',
+      ratingPerson: 'Gülnur Kaptanoglu',
+      ratingPersonType: 'Ankara423326 katkı',
+      ratingDate: '17 Kasım 2018',
+      ratingWithWho: 'family',
+      ratingTitle: 'Kebapçi kardesler',
+      ratingPics: ''
+    }
+  ],
+  openDates: [
+    { day: 'Pazar', hours: '8:00-22:00' },
+    { day: 'Pazartesi', hours: '8:00-22:00' },
+    { day: 'Salı', hours: '8:00-22:00' },
+    { day: 'Çarşamba', hours: '8:00-22:00' },
+    { day: 'Perşembe', hours: '8:00-22:00' },
+    { day: 'Cuma', hours: '8:00-22:00' },
+    { day: 'Cumartesi', hours: '8:00-22:00' }
+  ]
+}
+savign to data was successful
+This restaurant has finished in 29.25 seconds
+Start time for one restaurant: 1722427496.60
+Here is the link: /Restaurant_Review-g293974-d3349354-Reviews-Boheme_Pizza_Panino-Istanbul.html
+clicked for new tab
+starting image fetching
+Start time of review process: 1722427521.81
+No next review found. Breaking from review loop...: TimeoutError: Waiting for selector `a[aria-label="Next page"]` failed: Waiting failed: 2000ms exceeded
+{
+  detailedTitle: 'Cafe Boheme',
+  ratingOverall: '5',
+  ratingOverallNumber: '39',
+  restaurantWebsiteLink: 'http://www.facebook.com/bohemepizza',
+  locationAddress: 'Katip Mustafa Çelebi Mahallesi, Küçük Parmakkapı Sk. No: 13 Beyoğlu, İstanbul Türkiye',
+  restaurantLat: 41.035389,
+  restaurantLng: 28.982321,
+  generalFeatures: 'Dışarı Yemek Servisi, Paket Yemek, Açık Havada Oturma, Oturma, Ücretsiz Wifi, Kredi Kartı Geçerli, Masaya Servis, Aile tarzı, Sigara içilmeyen restoranlar',
+  priceSelector: '$',
+  telephoneNumber: '+90 212 251 09 32',
+  restaurantEmail: null,
+  restaurantMenuLink: 'https://www.instagram.com/bohemepizza/',
+  restaurantExplanation: null,
+  isTripAdvisorVerified: true,
+  categoryList: [
+    { category: 'İtalyan' },
+    { category: 'Pizza' },
+    { category: 'Vejetaryen Dostu' }
+  ],
+  restaurantLink: 'https://www.tripadvisor.com.tr/Restaurant_Review-g293974-d3349354-Reviews-Boheme_Pizza_Panino-Istanbul.html',
+  images: [
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/79/pizza-quattro-formaggi.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/7f/pizza-razo.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/7c/pizza-misto.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/7d/pizza-vegetariano.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/83/pizza-akdeniz.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/84/pizza-napoli.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/92/pizza-alla-came.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/94/pizza-margherita.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/81/pizza-capricciosa.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/80/pizza-salame-funghi.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/7a/pizza-slice.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/88/pizza-boheme-special.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cd/86/customers.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cd/8e/customers.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cd/88/customers.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cd/84/customers.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/c6/61/menu.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b1/cb/7e/one-bottle-of-cola-free.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/1d/b8/cb/36/sandwiches.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/2c/c9/90/7b/caption.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-t/1d/b8/c8/20/vasha-sasha.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/29/64/1e/83/caption.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/29/64/1e/82/caption.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/28/c0/02/15/caption.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/28/bf/c0/fb/caption.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/25/94/2d/d7/boheme-pizza-panino.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/25/94/2d/d6/boheme-pizza-panino.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/25/94/2d/85/boheme-pizza-panino.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/25/2f/55/bf/boheme-pizza-panino.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/25/1f/c7/26/caption.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/23/78/21/b8/boheme-pizza-panino.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/23/78/21/aa/boheme-pizza-panino.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/23/55/85/72/caption.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/23/55/85/71/caption.jpg'
+    },
+    {
+      url: 'https://media-cdn.tripadvisor.com/media/photo-s/23/55/85/70/caption.jpg'
+    }
+  ],
+  reviews: [
+    {
+      ratingValue: 5,
+      ratingContent: 'İstanbul’da yediğim en iyi pizzaydı. Sahibi çok tatlı ve sıcakkanlı birisiydi ve buna ek olarak mekanın dokusu ve ambiyansı sizi italyada hissettiriyor.',
+      ratingPerson: 'Mehmet C',
+      ratingPersonType: '1 katkı',
+      ratingDate: '4 Mayıs 2024',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Tek kelime ile HARİKA',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Taksimde Rıfat Ilgaz’ında daha önce bulunduğu bu tarihi binada Güler yüz ve ilgi en önemlisi Pizzanın inanılmaz derecede lezzetli oluşu gerçekten muhteşem kesinlikle tavsiye ediyorum.',
+      ratingPerson: 'Atakan G',
+      ratingPersonType: 'İstanbul1 katkı',
+      ratingDate: '4 Mayıs 2023',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Rıfat Ilgazın Evinde Pizza',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Pizzaları çok lezzetliydi, arkadaşlarımla birlikte gittik çok memnun kaldık. Sahibi çok sıcak kanlıydı. Herkese öneririm.',
+      ratingPerson: 'Beyza B',
+      ratingPersonType: '1 katkı',
+      ratingDate: '15 Mart 2022',
+      ratingWithWho: 'friends',
+      ratingTitle: 'Mükemmel lezzet',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: "Yediğim en lezzetli pizzalardan birisi. Tarihi bir binada istiklal caddesine yakın bir yer. Her türden pizzayı deneyebileceğiniz Beyoğlu'ndaki önemli restoranlardan birisi.",
+      ratingPerson: 'Resul Bandirma',
+      ratingPersonType: 'İstanbul1 katkı',
+      ratingDate: '28 Ağustos 2021',
+      ratingWithWho: 'none',
+      ratingTitle: 'lezzetli pizzalar',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: 'Sandviçler basit ve lezzetli ve fiyatı iyi - mükemmel kombinasyonu:) Onlar en iyi olan klasik Astoria espresso makinesi ile bir kahve yapmak, böylece kahve de iyidir:)',
+      ratingPerson: 'Mark M',
+      ratingPersonType: '13 katkı',
+      ratingDate: '18 Haziran 2017',
+      ratingWithWho: 'solo',
+      ratingTitle: 'En iyi sandviçler hiç',
+      ratingPics: ''
+    },
+    {
+      ratingValue: 5,
+      ratingContent: "Kahvaltı çektim Café Boheme'da iki kez. Sokak, sessiz ve dışarıda oturabilirsiniz sıcak hava. Café Boheme pansiyon bir parçasıdır.",
+      ratingPerson: 'Andre M',
+      ratingPersonType: 'Bad Soden18 katkı',
+      ratingDate: '25 Eylül 2014',
+      ratingWithWho: 'solo',
+      ratingTitle: 'Breakfast-Menu çok lezzetli.',
+      ratingPics: ''
+    }
+  ],
+  openDates: [
+    { day: 'Pazartesi', hours: '12:00-23:00' },
+    { day: 'Salı', hours: '12:00-23:00' },
+    { day: 'Çarşamba', hours: '12:00-23:00' },
+    { day: 'Perşembe', hours: '12:00-23:00' },
+    { day: 'Cuma', hours: '12:00-23:00' },
+    { day: 'Cumartesi', hours: '12:00-23:00' }
+  ]
+}
+savign to data was successful
+This restaurant has finished in 28.16 seconds
+Start time for one restaurant: 1722427524.76
+Here is the link: /Restaurant_Review-g293974-d3404313-Reviews-Halil_Lahmacun-Istanbul.html
+Error happened while initiliazing new tab: Error: Navigating frame was detached
+div[data-test-target="restaurant-detail-info"] h1 not found within timeout.
+a[href="#REVIEWS"] title not found within timeout.
+div[data-test-target="restaurant-detail-info"] span not found within timeout.
+div[data-test-target="restaurant-detail-info"] > div:nth-child(2) > span:nth-child(3) > span  not found within timeout.
+img[alt="Restoranın konumunu gösteren harita"] not found within timeout.
+a[target="_blank"][href^="https://maps.google.com/maps"] not found within timeout.
+div[data-automation="reviewsOverviewSections"] not found within timeout.
+a[target="_blank"][aria-label="Ara"] not found within timeout.
+span[data-automation="top-info-hours"] button not found within timeout.
+There has been a error occured for this selector: JSHandle@node here is the error TargetCloseError: Protocol error (Page.bringToFront): Session closed. Most likely the page has been closed.
+3
+/home/erikcik535/Desktop/lezio-trip-scrape/node_modules/puppeteer-core/src/util/assert.ts:19
+    throw new Error(message);
+          ^
+Error: Protocol error: Connection closed. Most likely the page has been closed.
+    at assert (/home/erikcik535/Desktop/lezio-trip-scrape/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+    at CdpPage.close (/home/erikcik535/Desktop/lezio-trip-scrape/node_modules/puppeteer-core/src/cdp/Page.ts:1186:11)
+    at /home/erikcik535/Desktop/lezio-trip-scrape/mainScrapingTripAdvisor.ts:780:22
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/erikcik535/Desktop/lezio-trip-scrape/mainScrapingTripAdvisor.ts:5:58)
